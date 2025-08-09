@@ -7,7 +7,7 @@
 
 <h1>如何使用?</h1>
 <h2>Github Pages部署</h2>
-<p>1.点击Fork复制项目</p>
+<p>1.点击Fork复制项目<br><img src="https://s21.ax1x.com/2025/08/10/pVajL4O.jpg" alt="图片无法加载，请刷新"></p>
 <p>2.修改仓库名为 自己的用户名.github.io</p>
 <p>3.点击create fork仓库</p>
 <p>4.创建成功后点击setting，然后切换到Pages选项</p>
