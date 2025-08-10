@@ -3,7 +3,7 @@
 <p>本项目背景图出自<a href="https://www.13th.tech/">次元壁纸</a>，侵权联系[15119587808@163.com]<a href="mailto:15119587808@163.com?subject=侵权问题&body=你好，我是***，你在项目Micro-Games中使用了我创作的图片，请你立刻删除该图片!">删除</a>┃<a href="mailto:15119587808@163.com?subject=侵权问题&body=你好，我是***，你在项目Micro-Games中使用了我创作的图片，请你在项目中给我的图片署名，请署上这个名字：***!">署名</a>
 <p>这是完全由AI制作的小游戏，本人完全没写过一句代码，完全由AI完成，让AI修正了很多次，真的很麻烦😭</p>
 <p>下面就能体验了</p>
-<a href="https://mcmineleng.github.io/Micro-Games/">小游戏体验</a>
+<a href="https://game.mineleng.cn">小游戏体验</a>
 
 ***
 
